@@ -131,12 +131,12 @@ We also analyzed which runtime results in the highest ratings.
         - 
 # Recommendations
 ## Movie Type
-### Documentary:
+## Documentary:
 - Directors: Amy Berg, James Marsh, Lauren Ross, Jean and John Griesser
 - Writers: Amy Berg and Marc Monroe
 - Studios: Lionsgate Films
 - Runtime: 101 minutes
-### Animation:
+## Animation:
 - Directors: Brad Bird, Brett Morgan, Don Hertzfeldt and Don Argott
 - Writers: Brad Bird and Brett Morgan
 - Actors/Actresses: Louie Arnett and Blair Jackson
@@ -147,6 +147,6 @@ We also analyzed which runtime results in the highest ratings.
 - Week of month: 3rd
 - Day of Week: Friday
 
-# Links
+## Links
 - Presentation: https://docs.google.com/presentation/d/1TgmvEbbpETPElT5eZp1UfDWB7LpRZdMvuUvKGzIyA5U/edit#slide=id.g2e6eb824385_0_165
 -   
