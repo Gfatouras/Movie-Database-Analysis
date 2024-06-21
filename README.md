@@ -1,7 +1,20 @@
 # Movie Data Analysis Project
-### Overview
+## Overview
 
-Welcome to our movie data analysis project! This repository contains the code and data used to analyze several movie databases. The primary goal of this project is to extract and evaluate various aspects of movies, such as return on investment, ratings by genre, and the best directors, writers, and actors.
+This repository contains the code and data used to analyze several movie databases. The primary goal of this project is to extract and evaluate various aspects of movies, such as return on investment, ratings by genre, and the best directors, writers, and actors.
+
+## Business Problem
+
+Our project focuses on solving critical challenges faced by stakeholders in the film industry:
+
+- Optimizing Release Days: When should a movie be released to maximize profits?
+
+- Identifying High-Rated Genres: How do movie ratings vary across different genres?
+
+- Highlighting Key Contributors: Who are the top directors, writers, and actors in the highest rated genres?
+
+Through data-driven insights, our project allows stakeholders to make more informed decisions, optimize resources, and enhance overall performance in the film production industry.
+
 ### Table of Contents
 
 - [Project Description](project-description)
@@ -18,14 +31,6 @@ Welcome to our movie data analysis project! This repository contains the code an
   - [Top Actors](top-actors)
 - [Conclusions](conclusions)
 - [Recommendations](recommendations)
-    
-### Project Description
-
-In this project, we explore and analyze data from several movie databases to uncover insights about the movie industry. We focus on key metrics and questions, such as:
-
-- Which movies have the highest return on investment (ROI)?
-- How do movie ratings vary across different genres?
-- Who are the top directors, writers, and actors based on the highest rated genres?
 
 ### Our analysis is divided into several sections, each targeting a specific aspect of the data.
 ### Data Sources
