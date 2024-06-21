@@ -32,9 +32,11 @@ In this project, we explore and analyze data from several movie databases to unc
 
 The data used in this project is sourced from the following movie databases:
 
-IMDb
-The Movie Database (TMDb)
-Box Office Mojo
+- [IMDb](https://www.imdb.com/)
+- [The Movie Database (TMDb)](https://www.themoviedb.org/)
+- [Box Office Mojo (BOM)](https://www.boxofficemojo.com/)
+- [Rotten Tomatoes (RT)](https://www.rottentomatoes.com/)
+- [The Numbers (TN)](https://www.the-numbers.com/)
 
 # Data Science Steps
 
@@ -102,7 +104,7 @@ We analyzed which studios created the highest rated animation and documentary fi
 Our analysis also extends to animation voice actors. Showcasing those who have starred in the highest-rated animation films.
 
 - Animated
-    - Will Arnett and Blair Jackson
+    - Louie Arnette and Blair Jackson
 
 ## Runtime
 We also analyzed which runtime results in the highest ratings.
@@ -139,3 +141,7 @@ We also analyzed which runtime results in the highest ratings.
 - Actors/Actresses: Louie Arnett and Blair Jackson
 - Studios: Buena Vista Pictures
 - Runtime: 115 minutes
+
+# Links
+- Presentation: https://docs.google.com/presentation/d/1TgmvEbbpETPElT5eZp1UfDWB7LpRZdMvuUvKGzIyA5U/edit#slide=id.g2e6eb824385_0_165
+-   
