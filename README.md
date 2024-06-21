@@ -25,7 +25,7 @@ In this project, we explore and analyze data from several movie databases to unc
 
 - Which movies have the highest return on investment (ROI)?
 - How do movie ratings vary across different genres?
-- Who are the top directors, writers, and actors based on ratings and box office performance?
+- Who are the top directors, writers, and actors based on the highest rated genres?
 
 ### Our analysis is divided into several sections, each targeting a specific aspect of the data.
 ### Data Sources
@@ -58,7 +58,7 @@ Box Office Mojo
 # Analysis and Results
 ## Profit vs. Release Date
 
-We calculated the ROI for movies by comparing their net profit and their release date. The analysis provides detailed insights into the ROI by release date.
+We calculated the ROI for movies by comparing their net profit and their release date.
 
 ![image](https://github.com/Gfatouras/Phase2/assets/165408353/93f5ccb5-ef9b-42f5-ab0b-ce85d70d1db6)
 
@@ -73,6 +73,7 @@ Our genre analysis examines how movie ratings differ across various genres. We u
 ![image](https://github.com/Gfatouras/Phase2/assets/165408353/ea31925c-3d8b-49b5-88ce-4eda003ce691)
 
 Since documentary and animation movies had the highest ratings, we will be focusing on actors, directors, writers, and studios that all worked on these two genres.
+
 ## Top Directors
 We matched the highest ratings to each director, and created a list of the top directors by film ratings.
 
@@ -96,13 +97,12 @@ We analyzed which studios created the highest rated animation and documentary fi
     - Lionsgate Films
 - Animated
     - Buena Vista Pictures
-    - 
+      
 ## Top Actors
 Our analysis also extends to animation voice actors. Showcasing those who have starred in the highest-rated animation films.
 
 - Animated
     - Will Arnett and Blair Jackson
-
 
 ## Runtime
 We also analyzed which runtime results in the highest ratings.
@@ -126,6 +126,7 @@ We also analyzed which runtime results in the highest ratings.
         - Documentary films
     - Fiction
         - Animated Films
+
 # Recommendations
 ## Documentary:
 - Directors: Amy Berg, James Marsh, Lauren Ross, Jean and John Griesser
