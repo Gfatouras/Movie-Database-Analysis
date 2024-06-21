@@ -1,6 +1,6 @@
 sqlite3
 zipfile
 pandas
-matplotlib.pyplot as plt
+matplotlib.pyplot
 seaborn 
 warnings
