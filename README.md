@@ -74,7 +74,7 @@ Our genre analysis examines how movie ratings differ across various genres. We u
 
 ![image](https://github.com/Gfatouras/Phase2/assets/165408353/ea31925c-3d8b-49b5-88ce-4eda003ce691)
 
-Since documentary and animation movies had the highest ratings, we will be focusing on actors, directors, writers, and studios that all worked on these two genres.
+Since documentary and animation movies had the highest ratings, we will be focusing on actors, directors, writers, and studios that all worked on these two genres for our final reccommendation.
 
 ## Top Directors
 We matched the highest ratings to each director, and created a list of the top directors by film ratings.
@@ -113,8 +113,8 @@ We also analyzed which runtime results in the highest ratings.
     - 101 minutes
 - Animated
     - 115 minutes
- 
-# Conclusions
+
+# Conclusion
 ## Profit vs. Release Day:
 - 80.71% of all movie profits since 2000 went to movies that were released on a Friday.
 - Movies that were released in May, June, July, November, and December saw significantly higher profits than the rest of the months. 
@@ -128,19 +128,24 @@ We also analyzed which runtime results in the highest ratings.
         - Documentary films
     - Fiction
         - Animated Films
-
+        - 
 # Recommendations
-## Documentary:
+## Movie Type
+### Documentary:
 - Directors: Amy Berg, James Marsh, Lauren Ross, Jean and John Griesser
 - Writers: Amy Berg and Marc Monroe
 - Studios: Lionsgate Films
 - Runtime: 101 minutes
-- ## Animation:
+### Animation:
 - Directors: Brad Bird, Brett Morgan, Don Hertzfeldt and Don Argott
 - Writers: Brad Bird and Brett Morgan
 - Actors/Actresses: Louie Arnett and Blair Jackson
 - Studios: Buena Vista Pictures
 - Runtime: 115 minutes
+## Release Date:
+- Months: May, June, July, November, December
+- Week of month: 3rd
+- Day of Week: Friday
 
 # Links
 - Presentation: https://docs.google.com/presentation/d/1TgmvEbbpETPElT5eZp1UfDWB7LpRZdMvuUvKGzIyA5U/edit#slide=id.g2e6eb824385_0_165
