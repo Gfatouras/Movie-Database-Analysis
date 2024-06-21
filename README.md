@@ -16,7 +16,8 @@ Welcome to our movie data analysis project! This repository contains the code an
   - [Top Studios](top-studios)
   - [Runtime](runtime)
   - [Top Actors](top-actors)
-  - [Conclusions](conclusions)
+- [Conclusions](conclusions)
+- [Recommendations](recommendations)
     
 ### Project Description
 
